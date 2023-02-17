@@ -24,12 +24,10 @@ menu_item.forEach((item) => {
 	});
 });
 var typed = new Typed(".typing-2", {
-	strings: ["Web Developer", "Freelancer", "Designer"],
-	typeSpeed: 100,
-	backSpeed: 60,
+	strings: ["Software Developer", "Web Developer", "Freelancer"],
+	typeSpeed: 120,
+	backSpeed: 100,
 	loop: true
 });
-
-
 
 
